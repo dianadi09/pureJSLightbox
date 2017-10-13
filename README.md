@@ -25,7 +25,8 @@ How to use?
     </ul>
 
     Where <a> href is the image for the lightbox view and <img> src is for regular view inside your page layout. 
-    You can use different images here, for example if you want your images to be in better quality when opening the lightbox,
+    You can use different images.
+    For example if you want your images to be in better quality when opening the lightbox,
     and use a small images for the page payout.
 
     IMPORTANT: 
