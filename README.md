@@ -2,7 +2,8 @@ Pure Js Lightbox Library
 
 Why do you need this?
 
-	This is ligthbox made in pure javascript and CSS. Very usefull if you developing mobile web application and you want to make your app extremely fast.
+	This is ligthbox made in pure javascript and CSS. 
+	Very usefull if you developing mobile web application and you want to make your app extremely fast.
 
 How to use?
 
@@ -23,7 +24,9 @@ How to use?
       <li><a href="../img/img_6.jpg"><img src="../img/img_6.jpg"/></a></li>
     </ul>
 
-    Where <a> href is the image for the lightbox view and <img> src is for regular view inside your page layout. You can use different images here, for example if you want your images to be in better quality when opening the lightbox, and use a small images for the page payout.
+    Where <a> href is the image for the lightbox view and <img> src is for regular view inside your page layout. 
+    You can use different images here, for example if you want your images to be in better quality when opening the lightbox,
+    and use a small images for the page payout.
 
     IMPORTANT: 
     	You MUST use a tag <a> with href to the image you want to see in a lightbox when clicking on the image.
