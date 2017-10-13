@@ -1,10 +1,10 @@
-***** Pure Js Lightbox Library *****
+Pure Js Lightbox Library
 
-** Why do you need this? **
+Why do you need this?
 
 	This is ligthbox made in pure javascript and CSS. Very usefull if you developing mobile web application and you want to make your app extremely fast.
 
-** How to use? **
+How to use?
 
 	1. Inlude css and js source to you code, like this:
 	<link rel="stylesheet" href="{{YOUR_PATH}}/pure-js-lightbox.min.css">
@@ -31,7 +31,7 @@
     3. Include this code to instantiate the library:
     	var lightbox = new pureJSLightBox();
 
-** Options **
+Options
 	You can pass an object with custom options to the pureJSLightBox constructor.
 	Custom options:
 
@@ -49,7 +49,7 @@
 			swipe: false
 		});
 
-** Examples **
+Examples
 
 	Take a look at the examples  - examples folder.
 
